@@ -83,7 +83,7 @@ The analysis results are summarized as follows:
 
 👕  |  👞  |  🩰  |  🧦  |  ⌚ 
 
-💻 & 🖱️
+💻 & 🖱️ & ✍️
 
 😃
 
