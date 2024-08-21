@@ -71,7 +71,7 @@ The analysis results are summarized as follows:
  ### Recommendations
 
 - Watch is the lowest -selling item. To boost sales ,offer a "Watch Deal" promotion with 15% off
-- Shoes and Socks are the lowest-selling items. To boost sales, offer a "Buy 3 Sets of Socks, Get 1 Set Off" promotion and introduce a "Back to School" promotion for shoes from May 10 to May 30 with 20% discount to drive purchases during this key period
+- Shoes and Socks are also the lowest-selling items. To boost sales, offer a "Buy 3 Sets of Socks, Get 1 Set Off" promotion and introduce a "Back to School" promotion for shoes from May 10 to May 30 with 20% discount to drive purchases during this key period
 - Cancellation rates are highest in Maharashtra, followed by Karnataka, Uttar Pradesh, Telangana, and Tamil Nadu. Addressing specific issues in these states will help reduce cancellations
 - Orders dropped from 880 to 410 between June 15 and June 29, and there was a similar decline from May 10 to May 26. Need to investigate the causes of these declines and implement corrective measures
 - To boost sales in the lowest-performing areas, Pondicherry and Lakshadweep, deploy localized marketing strategies and targeted promotions, and streamline logistics for faster delivery and improved customer satisfaction
@@ -81,9 +81,9 @@ The analysis results are summarized as follows:
   - Offer a 25% discount on Blazers during special periods such as the Diwali festive season or the end-of-winter sale. This attracts customers looking for high-value purchases at a lower price point, especially during these key shopping times.
   - Shirt & T-Shirt Deal: Offer 30% off when customers buy 4 shirts or 4 T-shirts, encouraging bulk purchases and boosting overall sales.
 
-👕 | 👞 | 🩰 | 🧦 | ⌚ 
+👕  |  👞  |  🩰  |  🧦  |  ⌚ 
 
-💻 | 🖱️
+💻 & 🖱️
 
 😃
 
